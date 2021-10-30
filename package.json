@@ -1,6 +1,9 @@
 {
   "name": "e-learningapifake",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.0"
+  },
   "npm": "index.js",
   "description": "for testing purpose only",
   "main": "index.js",

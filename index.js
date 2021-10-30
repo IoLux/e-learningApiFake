@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 app.get("/postUser", (req, res) => {
-  res.json(data.data);
+  res.send("HELLO");
 });
 
 app.get("/user", (req, res, next) => {
